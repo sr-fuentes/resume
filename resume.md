@@ -35,7 +35,7 @@
 
 **Pepperdine University** - B.A. Economics with minor in Computer Science (Aug 2002 - Apr 2006)
 
-**CFA Institute** -  Chartered Financial Analysis (CFA) charterholder (Nov 2011 - Present)
+**[CFA Institute](https://github.com/sr-fuentes/resume/blob/main/CFA_Program_Verification_Letter.pdf)** -  Chartered Financial Analysis (CFA) charterholder (Nov 2011 - Present)
 
 **FINRA ([BrokerCheck](https://brokercheck.finra.org/individual/summary/7023214))** - SIE, Series 7, Series 63 (Dec 2018 - Present)
 
